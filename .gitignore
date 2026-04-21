@@ -1,0 +1,16 @@
+.idea/
+*.iml
+*.iws
+*.ipr
+
+out/
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+pom.xml.*
+.DS_Store
+*~
+*.orig
